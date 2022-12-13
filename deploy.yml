@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
         - name: webserver
-          image: us-central1-docker.pkg.dev/cloudside-academy/harsh-test-repo/test-image:v1
+          image: us-central1-docker.pkg.dev/cloudside-academy/harsh-test-repo/jenkins-argo:v1
