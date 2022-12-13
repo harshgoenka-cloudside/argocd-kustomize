@@ -5,5 +5,5 @@ resources:
 - svc.yml
 namespace: default
 images:
-- name: us-central1-docker.pkg.dev/cloudside-academy/harsh-test-repo/test-image
+- name: us-central1-docker.pkg.dev/cloudside-academy/harsh-test-repo/jenkins-argo
   newTag: v2
