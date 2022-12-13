@@ -6,4 +6,4 @@ resources:
 namespace: default
 images:
 - name: us-central1-docker.pkg.dev/cloudside-academy/harsh-test-repo/test-image
-  newTag: v1
+  newTag: v47
